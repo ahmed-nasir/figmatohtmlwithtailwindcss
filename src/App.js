@@ -4,7 +4,7 @@ import Sidemenuebar from './component/Sidemenuebar';
 
 function App() {
   return (
-    <div className="App bg-slate-600">
+    <div className=" bg-slate-600">
       <Sidemenuebar></Sidemenuebar>
     </div>
   );
